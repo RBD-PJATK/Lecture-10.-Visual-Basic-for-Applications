@@ -436,7 +436,7 @@ two new symbols that are references to objects.</p>
 	the form or the report whose event procedure is executed.
 </ul>
 
-<a name="FormCurrentProjects"/>
+
 <pre>Private Sub Form_Current()
 On Error GoTo Err_Form_Current
 
